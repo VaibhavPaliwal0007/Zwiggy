@@ -20,7 +20,12 @@ export default function Cart(props) {
                 <span>35.62</span>
             </div>
             <div className={styles.actions}>
-                <button className={styles["button--alt"]} onClick={props.onHide}>Close</button>
+                <button
+                    className={styles["button--alt"]}
+                    onClick={props.onHide}
+                >
+                    Close
+                </button>
                 <button className={styles.button}>Order</button>
             </div>
         </Modal>
