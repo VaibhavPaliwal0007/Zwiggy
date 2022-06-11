@@ -14,9 +14,7 @@ const HeaderButton = (props) => {
         return curNumber + item.amount;
     }, 0);
 
-    const btnstyles = `${styles.button} ${
-        btnIsHighlighted ? styles.bump : ""
-    }`;
+    const btnstyles = `${styles.button} ${btnIsHighlighted ? styles.bump : ""}`;
 
     useEffect(() => {
         if (items.length === 0) {
