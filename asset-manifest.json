@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Zwiggy/static/css/main.9cfd60ed.chunk.css",
+    "main.js": "/Zwiggy/static/js/main.2f64eb17.chunk.js",
+    "main.js.map": "/Zwiggy/static/js/main.2f64eb17.chunk.js.map",
+    "runtime-main.js": "/Zwiggy/static/js/runtime-main.effcd4a3.js",
+    "runtime-main.js.map": "/Zwiggy/static/js/runtime-main.effcd4a3.js.map",
+    "static/js/2.d957a0a2.chunk.js": "/Zwiggy/static/js/2.d957a0a2.chunk.js",
+    "static/js/2.d957a0a2.chunk.js.map": "/Zwiggy/static/js/2.d957a0a2.chunk.js.map",
+    "index.html": "/Zwiggy/index.html",
+    "static/css/main.9cfd60ed.chunk.css.map": "/Zwiggy/static/css/main.9cfd60ed.chunk.css.map",
+    "static/js/2.d957a0a2.chunk.js.LICENSE.txt": "/Zwiggy/static/js/2.d957a0a2.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpeg": "/Zwiggy/static/media/meals.2971f633.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.effcd4a3.js",
+    "static/js/2.d957a0a2.chunk.js",
+    "static/css/main.9cfd60ed.chunk.css",
+    "static/js/main.2f64eb17.chunk.js"
+  ]
+}
