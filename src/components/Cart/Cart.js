@@ -85,7 +85,7 @@ export default function Cart(props) {
             {isCheckout && (
                 <Checkout
                     onConfirm={submitOrderHandler}
-                    onCancel={props.onClose}
+                    onClose={props.onClose}
                 />
             )}
             {!isCheckout && modalActions}

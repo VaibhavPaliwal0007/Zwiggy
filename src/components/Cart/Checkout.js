@@ -95,7 +95,7 @@ const Checkout = (props) => {
                 {!formInputsValidity.city && <p>Please enter a valid city!</p>}
             </div>
             <div className={classes.actions}>
-                <button type="button" onClick={props.onCancel}>
+                <button type="button" onClick={props.onClose}>
                     Cancel
                 </button>
                 <button className={classes.submit}>Confirm</button>
